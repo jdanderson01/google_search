@@ -1,5 +1,3 @@
-$position: relative;
-
 
 .header {
     display: flex;
@@ -26,13 +24,10 @@ $position: relative;
     position: relative;
 }
 
-.num1 {
-    position: $position;
+.num1, .num2, .num3, .num4 {
+    position: relative;
 }
 
-.num2 {
-    position: $position;
-}
 
 
 .heading {
